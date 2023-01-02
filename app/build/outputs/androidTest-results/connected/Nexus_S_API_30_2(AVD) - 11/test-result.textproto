@@ -1,0 +1,68 @@
+# 2022-12-28T15:43:50.905Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 1
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "LanguageListFragmentTest"
+    test_package: "com.vishvendu.cleanarch.newsapp.ui.fragment"
+    test_method: "test_displayRecyclerView_item_onclick"
+    start_time {
+      seconds: 1672242218
+      nanos: 94000000
+    }
+    end_time {
+      seconds: 1672242226
+      nanos: 183000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\vpalawat\\Documents\\eLearning\\NewsApp - Copy\\NewsApp\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_S_API_30_2(AVD) - 11\\logcat-com.vishvendu.cleanarch.newsapp.ui.fragment.LanguageListFragmentTest-test_displayRecyclerView_item_onclick.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\vpalawat\\Documents\\eLearning\\NewsApp - Copy\\NewsApp\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_S_API_30_2(AVD) - 11\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\vpalawat\\Documents\\eLearning\\NewsApp - Copy\\NewsApp\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_S_API_30_2(AVD) - 11\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\vpalawat\\Documents\\eLearning\\NewsApp - Copy\\NewsApp\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_S_API_30_2(AVD) - 11\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\vpalawat\\Documents\\eLearning\\NewsApp - Copy\\NewsApp\\app\\build\\outputs\\androidTest-results\\connected\\Nexus_S_API_30_2(AVD) - 11\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

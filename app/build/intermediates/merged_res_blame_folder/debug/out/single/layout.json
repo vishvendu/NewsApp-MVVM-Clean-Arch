@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:/layout/language_list_items.xml",
+        "source": "com.vishvendu.cleanarch.newsapp-main-47:/layout/language_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_country_list.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_country_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_top_headlines.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_top_headlines.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_top_headline.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_top_headline.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\news_sources_item_layout.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\news_sources_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_news_in_language.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_news_in_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_search_news.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_search_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_news_for_country.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_news_for_country.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_news_for_country.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_news_for_country.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_news_sources.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_news_sources.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\language_list_items.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\language_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\country_list_items.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\country_list_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_country_list.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_country_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_news_source_details.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_news_source_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_search_news.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_search_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\search_news_item_layout.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\search_news_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\activity_language_list.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\activity_language_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\top_headline_item_layout.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\top_headline_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\news_for_country_items.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\news_for_country_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_news_in_language.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_news_in_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_language_list.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_language_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\news_source_details_item_layout.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\news_source_details_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\fragment_news_sources.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\fragment_news_sources.xml"
+    },
+    {
+        "merged": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-mergeDebugResources-44:\\layout\\news_in_language_items.xml",
+        "source": "C:\\Users\\vpalawat\\.gradle\\daemon\\7.4\\com.vishvendu.cleanarch.newsapp-main-47:\\layout\\news_in_language_items.xml"
+    }
+]

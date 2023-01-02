@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.vishvendu.cleanarch.newsapp.ui.fragment.LanguageListFragmentTest" tests="1" failures="0" errors="0" skipped="0" time="12.743" timestamp="2022-12-28T15:43:50" hostname="localhost">
+  <properties>
+    <property name="device" value="Nexus_S_API_30_2(AVD) - 11" />
+    <property name="flavor" value="" />
+    <property name="project" value=":app" />
+  </properties>
+  <testcase name="test_displayRecyclerView_item_onclick" classname="com.vishvendu.cleanarch.newsapp.ui.fragment.LanguageListFragmentTest" time="8.044" />
+</testsuite>

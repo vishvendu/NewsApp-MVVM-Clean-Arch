@@ -1,0 +1,165 @@
+12-28 21:13:37.018 13364 13387 I TestRunner: started: test_displayRecyclerView_item_onclick(com.vishvendu.cleanarch.newsapp.ui.fragment.LanguageListFragmentTest)
+12-28 21:13:37.046 13364 13387 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-28 21:13:37.054   528   549 D EventSequenceValidator: Transition from INTENT_FAILED to INTENT_STARTED
+12-28 21:13:37.057   404   404 I perfetto: ing_service_impl.cc:758 Configured tracing session 68, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-28 21:13:37.058   401   401 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=68)
+12-28 21:13:37.078   528   549 D EventSequenceValidator: Transition from INTENT_STARTED to ACTIVITY_LAUNCHED
+12-28 21:13:37.081   528 12932 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.082   528 12932 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.085   528 12932 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:37.114   401   401 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-28 21:13:37.115   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3ffe12000 0x3fff89000]
+12-28 21:13:37.163 13364 13396 D libEGL  : loaded /vendor/lib/egl/libEGL_emulation.so
+12-28 21:13:37.171 13364 13396 D libEGL  : loaded /vendor/lib/egl/libGLESv1_CM_emulation.so
+12-28 21:13:37.179 13364 13396 D libEGL  : loaded /vendor/lib/egl/libGLESv2_emulation.so
+12-28 21:13:37.230 13364 13364 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff in: PRE_ON_CREATE
+12-28 21:13:37.231 13364 13364 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+12-28 21:13:37.330   528   627 D WifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10124 AdministratorUids: [] RequestorUid: 10124 RequestorPackageName: com.vishvendu.cleanarch.newsapp] ] with score 60 and providerId 3
+12-28 21:13:37.331   528   627 D UntrustedWifiNetworkFactory: got request NetworkRequest [ TRACK_DEFAULT id=196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10124 AdministratorUids: [] RequestorUid: 10124 RequestorPackageName: com.vishvendu.cleanarch.newsapp] ] with score 60 and providerId 3
+12-28 21:13:37.331   922   922 D PhoneSwitcherNetworkRequstListener: got request NetworkRequest [ TRACK_DEFAULT id=196, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED Uid: 10124 AdministratorUids: [] RequestorUid: 10124 RequestorPackageName: com.vishvendu.cleanarch.newsapp] ] with score 60 and providerId 3
+12-28 21:13:37.341   699   699 V KeyguardUpdateMonitor: onSubscriptionInfoChanged()
+12-28 21:13:37.342   922   922 D Telephony: isEmergencyPreferredAccount: subId=1, activeData=1
+12-28 21:13:37.342   922   922 D Telephony: isEmergencyPreferredAccount: Device does not require preference.
+12-28 21:13:37.346   699   699 V KeyguardUpdateMonitor: SubInfo:{id=1 iccId=89014103211118510720 simSlotIndex=0 carrierId=1 displayName=T-Mobile carrierName=T-Mobile nameSource=3 iconTint=-16746133 number=+15555215554 dataRoaming=0 iconBitmap=android.graphics.Bitmap@2ac8661 mcc=310 mnc=260 countryIso=us isEmbedded=false nativeAccessRules=null cardString=89014103211118510720 cardId=-1 isOpportunistic=false groupUUID=null isGroupDisabled=false profileClass=-1 ehplmns=null hplmns=null subscriptionType=0 groupOwner=null carrierConfigAccessRules=null areUiccApplicationsEnabled=true}
+12-28 21:13:37.373 13364 13364 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff in: CREATED
+12-28 21:13:37.373 13364 13364 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff
+12-28 21:13:37.379 13364 13364 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff in: STARTED
+12-28 21:13:37.379 13364 13364 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff
+12-28 21:13:37.381 13364 13364 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff in: RESUMED
+12-28 21:13:37.382 13364 13364 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff
+12-28 21:13:37.428 13364 13394 D HostConnection: HostConnection::get() New Host Connection established 0xf6069130, tid 13394
+12-28 21:13:37.434 13364 13394 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+12-28 21:13:37.436   174   174 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+12-28 21:13:37.437 13364 13394 W OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+12-28 21:13:37.451 13364 13394 D EGL_emulation: eglCreateContext: 0xf6068410: maj 2 min 0 rcv 2
+12-28 21:13:37.459 13364 13394 D EGL_emulation: eglMakeCurrent: 0xf6068410: ver 2 0 (tinfo 0xf63f78b0) (first time)
+12-28 21:13:37.472   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3ff027000 0x3ff19e000]
+12-28 21:13:37.477   174   174 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device manifest.
+12-28 21:13:37.477 13364 13394 I Gralloc4: mapper 4.x is not supported
+12-28 21:13:37.478 13364 13394 D HostConnection: createUnique: call
+12-28 21:13:37.479 13364 13394 D HostConnection: HostConnection::get() New Host Connection established 0xf60690c0, tid 13394
+12-28 21:13:37.480 13364 13394 D goldfish-address-space: allocate: Ask for block of size 0x100
+12-28 21:13:37.480 13364 13394 D goldfish-address-space: allocate: ioctl allocate returned offset 0x3f9ffc000 size 0x2000
+12-28 21:13:37.494 13364 13394 D HostConnection: HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_vulkan ANDROID_EMU_deferred_vulkan_commands ANDROID_EMU_vulkan_null_optional_strings ANDROID_EMU_vulkan_create_resources_with_requirements ANDROID_EMU_YUV_Cache ANDROID_EMU_vulkan_ignored_handles ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_vulkan_free_memory_sync ANDROID_EMU_vulkan_shader_float16_int8 ANDROID_EMU_vulkan_async_queue_submit ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_2
+12-28 21:13:37.497   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3ff19e000 0x3ff315000]
+12-28 21:13:37.504   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3ff315000 0x3ff48c000]
+12-28 21:13:37.542   528   555 D ArtManagerInternalImpl: /data/misc/iorapd/com.vishvendu.cleanarch.newsapp/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+12-28 21:13:37.543   528   555 I ActivityTaskManager: Displayed com.vishvendu.cleanarch.newsapp/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +487ms
+12-28 21:13:37.545   528   549 D EventSequenceValidator: Transition from ACTIVITY_LAUNCHED to ACTIVITY_FINISHED
+12-28 21:13:37.614 13364 13400 W eanarch.newsap: Accessing hidden method Ljava/lang/invoke/MethodHandles$Lookup;-><init>(Ljava/lang/Class;I)V (greylist, reflection, allowed)
+12-28 21:13:39.519 13364 13397 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=d97724aa-df58-4de0-8448-67517b430cd4, tags={ com.vishvendu.cleanarch.newsapp.worker.TopHeadlineWorker } ]
+12-28 21:13:40.639 13364 13399 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=a1e9548b-54cf-4546-9c44-90cc82579ffa, tags={ com.vishvendu.cleanarch.newsapp.worker.TopHeadlineWorker } ]
+12-28 21:13:40.660   699   699 V KeyguardUpdateMonitor: onSubscriptionInfoChanged()
+12-28 21:13:40.660   922   922 D Telephony: isEmergencyPreferredAccount: subId=1, activeData=1
+12-28 21:13:40.660   922   922 D Telephony: isEmergencyPreferredAccount: Device does not require preference.
+12-28 21:13:40.662   699   699 V KeyguardUpdateMonitor: SubInfo:{id=1 iccId=89014103211118510720 simSlotIndex=0 carrierId=1 displayName=T-Mobile carrierName=T-Mobile nameSource=3 iconTint=-16746133 number=+15555215554 dataRoaming=0 iconBitmap=android.graphics.Bitmap@46cf586 mcc=310 mnc=260 countryIso=us isEmbedded=false nativeAccessRules=null cardString=89014103211118510720 cardId=-1 isOpportunistic=false groupUUID=null isGroupDisabled=false profileClass=-1 ehplmns=null hplmns=null subscriptionType=0 groupOwner=null carrierConfigAccessRules=null areUiccApplicationsEnabled=true}
+12-28 21:13:42.066   401   401 I perfetto: probes_producer.cc:329  Producer stop (id=68)
+12-28 21:13:42.068   404   404 I perfetto: ng_service_impl.cc:1948 Tracing session 68 ended, total sessions:0
+12-28 21:13:42.071   401   401 I perfetto: ftrace_procfs.cc:183    disabled ftrace
+12-28 21:13:42.988 13364 13387 D EventInjectionStrategy: Creating injection strategy with input manager.
+12-28 21:13:42.988 13364 13387 W eanarch.newsap: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+12-28 21:13:42.988 13364 13387 W eanarch.newsap: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+12-28 21:13:42.988 13364 13387 W eanarch.newsap: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+12-28 21:13:43.005 13364 13387 W eanarch.newsap: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+12-28 21:13:43.017 13364 13364 W eanarch.newsap: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+12-28 21:13:43.017 13364 13364 W eanarch.newsap: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+12-28 21:13:43.017 13364 13364 W eanarch.newsap: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+12-28 21:13:43.025 13364 13364 W eanarch.newsap: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+12-28 21:13:43.025 13364 13364 W eanarch.newsap: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+12-28 21:13:43.025 13364 13364 W eanarch.newsap: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+12-28 21:13:43.034 13364 13364 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: long click on item at position: 3' action on view view.getId() is <2131231081/com.vishvendu.cleanarch.newsapp:id/recyclerView>
+12-28 21:13:43.463 13364 13364 I System.out: languageSelectedMap after long press {3=es}
+12-28 21:13:43.465   349   349 I android.hardware.vibrator-service.example: Vibrator reporting capabilities
+12-28 21:13:43.467   349   349 I android.hardware.vibrator-service.example: Vibrator off
+12-28 21:13:43.470   349   349 I android.hardware.vibrator-service.example: Vibrator perform
+12-28 21:13:43.470   528   974 E VibratorService: Failed to issue command to vibrator HAL. Retrying.
+12-28 21:13:43.471   172   172 I servicemanager: Found android.hardware.vibrator.IVibrator/default in device VINTF manifest.
+12-28 21:13:43.474   349   349 I android.hardware.vibrator-service.example: Vibrator perform
+12-28 21:13:43.475   528   974 E VibratorService: Failed to issue command to vibrator HAL. Retrying.
+12-28 21:13:43.475   172   172 I servicemanager: Found android.hardware.vibrator.IVibrator/default in device VINTF manifest.
+12-28 21:13:43.482   349   349 I android.hardware.vibrator-service.example: Vibrator on for timeoutMs: 1
+12-28 21:13:43.483   349   349 I android.hardware.vibrator-service.example: Vibrator set amplitude: 1
+12-28 21:13:43.525   349   349 I android.hardware.vibrator-service.example: Vibrator on for timeoutMs: 21
+12-28 21:13:43.525   349   349 I android.hardware.vibrator-service.example: Vibrator set amplitude: 1
+12-28 21:13:43.548   349   349 I android.hardware.vibrator-service.example: Vibrator off
+12-28 21:13:43.769 13364 13364 I ViewInteraction: Performing 'actionOnItemAtPosition performing ViewAction: long click on item at position: 1' action on view view.getId() is <2131231081/com.vishvendu.cleanarch.newsapp:id/recyclerView>
+12-28 21:13:44.195 13364 13364 I System.out: languageSelectedMap after long press {1=de, 3=es}
+12-28 21:13:44.197   349   349 I android.hardware.vibrator-service.example: Vibrator reporting capabilities
+12-28 21:13:44.199   349   349 I android.hardware.vibrator-service.example: Vibrator off
+12-28 21:13:44.200   349   349 I android.hardware.vibrator-service.example: Vibrator perform
+12-28 21:13:44.201   528   974 E VibratorService: Failed to issue command to vibrator HAL. Retrying.
+12-28 21:13:44.201   172   172 I servicemanager: Found android.hardware.vibrator.IVibrator/default in device VINTF manifest.
+12-28 21:13:44.203   349   349 I android.hardware.vibrator-service.example: Vibrator perform
+12-28 21:13:44.203   528   974 E VibratorService: Failed to issue command to vibrator HAL. Retrying.
+12-28 21:13:44.204   172   172 I servicemanager: Found android.hardware.vibrator.IVibrator/default in device VINTF manifest.
+12-28 21:13:44.208   349   349 I android.hardware.vibrator-service.example: Vibrator on for timeoutMs: 1
+12-28 21:13:44.209   349   349 I android.hardware.vibrator-service.example: Vibrator set amplitude: 1
+12-28 21:13:44.232   349   349 I android.hardware.vibrator-service.example: Vibrator on for timeoutMs: 21
+12-28 21:13:44.233   349   349 I android.hardware.vibrator-service.example: Vibrator set amplitude: 1
+12-28 21:13:44.257   349   349 I android.hardware.vibrator-service.example: Vibrator off
+12-28 21:13:44.510 13364 13364 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230823/com.vishvendu.cleanarch.newsapp:id/buttonLanguage>
+12-28 21:13:44.563   528   974 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-28 21:13:44.563   528  3233 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-28 21:13:44.564   528  3233 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-28 21:13:44.575   528   549 D EventSequenceValidator: Transition from ACTIVITY_FINISHED to INTENT_STARTED
+12-28 21:13:44.579   404   404 I perfetto: ing_service_impl.cc:758 Configured tracing session 69, #sources:1, duration:5000 ms, #buffers:1, total buffer size:4096 KB, total sessions:1, uid:1071 session name: ""
+12-28 21:13:44.580   401   401 I perfetto: probes_producer.cc:230  Ftrace setup (target_buf=69)
+12-28 21:13:44.596   528   549 D EventSequenceValidator: Transition from INTENT_STARTED to INTENT_FAILED
+12-28 21:13:44.597 13364 13364 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff in: PAUSED
+12-28 21:13:44.598 13364 13364 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@9eb21ff
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_10 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_9 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_7 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_4 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.600   528   974 W InputReader: Device virtio_input_multi_touch_11 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.601   528   974 W InputReader: Device virtio_input_multi_touch_5 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.601   528   974 W InputReader: Device virtio_input_multi_touch_2 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.601   528   974 W InputReader: Device virtio_input_multi_touch_6 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.601   528   974 W InputReader: Device virtio_input_multi_touch_3 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.601   528   974 W InputReader: Device virtio_input_multi_touch_8 is associated with display ADISPLAY_ID_NONE.
+12-28 21:13:44.611   401   401 I perfetto: ftrace_procfs.cc:176    enabled ftrace
+12-28 21:13:44.657 13364 13364 D LifecycleMonitor: Lifecycle status change: com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265 in: PRE_ON_CREATE
+12-28 21:13:44.658 13364 13364 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.vishvendu.cleanarch.newsapp/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { cmp=com.vishvendu.cleanarch.newsapp/.ui.activity.NewsInLanguageActivity (has extras) }, activity=com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265
+12-28 21:13:44.710   528   974 I system_server: oneway function results will be dropped but finished with status OK and parcel size 4
+12-28 21:13:44.780 13364 13364 W eanarch.newsap: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (greylist, reflection, allowed)
+12-28 21:13:44.780 13364 13364 W eanarch.newsap: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (greylist, reflection, allowed)
+12-28 21:13:44.802 13364 13364 D LifecycleMonitor: Lifecycle status change: com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265 in: CREATED
+12-28 21:13:44.803 13364 13364 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.vishvendu.cleanarch.newsapp/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { cmp=com.vishvendu.cleanarch.newsapp/.ui.activity.NewsInLanguageActivity (has extras) }, activity=com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265
+12-28 21:13:44.830 13364 13364 D LifecycleMonitor: Lifecycle status change: com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265 in: STARTED
+12-28 21:13:44.831 13364 13364 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.vishvendu.cleanarch.newsapp/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { cmp=com.vishvendu.cleanarch.newsapp/.ui.activity.NewsInLanguageActivity (has extras) }, activity=com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265
+12-28 21:13:44.834 13364 13364 D LifecycleMonitor: Lifecycle status change: com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265 in: RESUMED
+12-28 21:13:44.835 13364 13364 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.vishvendu.cleanarch.newsapp/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { cmp=com.vishvendu.cleanarch.newsapp/.ui.activity.NewsInLanguageActivity (has extras) }, activity=com.vishvendu.cleanarch.newsapp.ui.activity.NewsInLanguageActivity@c361265
+12-28 21:13:44.906   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3feeb0000 0x3ff027000]
+12-28 21:13:44.914   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3ffe12000 0x3fff89000]
+12-28 21:13:44.923   307   365 D goldfish-address-space: claimShared: Ask to claim region [0x3ff48c000 0x3ff603000]
+12-28 21:13:44.955 13364 13364 I System.out: NewsInLanguageRepository country list  null
+12-28 21:13:44.956 13364 13364 I System.out: NewsInLanguageRepository country list  de
+12-28 21:13:44.960   528   555 I ActivityTaskManager: Displayed com.vishvendu.cleanarch.newsapp/.ui.activity.NewsInLanguageActivity: +383ms
+12-28 21:13:45.123 13364 13387 I TestRunner: finished: test_displayRecyclerView_item_onclick(com.vishvendu.cleanarch.newsapp.ui.fragment.LanguageListFragmentTest)
